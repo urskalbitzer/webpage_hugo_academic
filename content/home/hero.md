@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Welcome"
@@ -24,7 +24,7 @@ title = "Welcome"
   # gradient_end = "#2b94c3"
   
   # Background image.
-  image = "red_colobus_background.jpg"  # Name of image in `static/img/`.
+  image = "DSC_1114.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -39,18 +39,11 @@ title = "Welcome"
 
 # Note. An optional note to show underneath the links.
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["100px", "0", "300px", "0"]
+  
 +++
-
-
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-
   
   
   
