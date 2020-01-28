@@ -1,75 +1,45 @@
 ---
-# Display name
-name: Nelson Bighetti
-
-# Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+bio: I am interested in the evolution of social behavior in primates and other animals, primate responses to environmental change, and the application of quantitative methods to analyze behavioral and environmental data.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biology
+    institution: University of Göttingen, Germany
+email: ""
+interests:
+- Behavioral Ecology
+- Social Behavior
+- Biological Anthropology
+- Quantitative Methods
+- Primates
+- Coding
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+name: Urs Kalbitzer
+organizations:
+- name: McGill University
+  url: ""
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ursurs
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ePZE-XQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  link: https://github.com/urskalbitzer
+superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a behavioral ecologist and biological anthropologist interested in primate social behavior and primate responses to anthropogenic changes in their environments.   Recently, I conducted research on [male-male competition in baboons](/project/male-competition) and I am currently investigating [costs and benefits of female sociability in white-faced capuchins and red colobus monkeys](/project/female-sociability). Having worked in several places in the world where primates and other organism are threatened by human activities, I also want to understand [how animals respond to environmental change](/project/changing-environments), so that I can help prevent their extinction.  
+  
+Furthermore, I am passionate about quantitative methods and data analysis in general and absolutely enjoy coding (mostly in R). Therefore, I started a blog about analyzing behavioural and environmental data (https://bedatablog.netlify.com)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
