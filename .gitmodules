@@ -5,3 +5,7 @@
 	path = public/urskalbitzer.github.io
 	url = https://github.com/urskalbitzer/urskalbitzer.github.io
 	branch = master
+[submodule "urskalbitzer.github.io"]
+	path = urskalbitzer.github.io
+	url = https://github.com/urskalbitzer/urskalbitzer.github.io
+	branch = master
