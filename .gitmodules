@@ -11,5 +11,5 @@
 	branch = master
 [submodule "public"]
 	path = public
-	url = https://github.com/urskalbitzer/urskalbitzer.github.io.git
+	url = https://github.com/urskalbitzer/urskalbitzer.github.io
 	branch = master
