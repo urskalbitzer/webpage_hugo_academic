@@ -3,8 +3,11 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: "Urs Kalbitzer" # Website name
+baseURL: "https://urskalbitzer.github.io/" # Website URL
+# title: Urs Kalbitzer # Website name
+# baseURL: 'https://example.com/' # Website URL
+
 
 ############################
 ## LANGUAGE
