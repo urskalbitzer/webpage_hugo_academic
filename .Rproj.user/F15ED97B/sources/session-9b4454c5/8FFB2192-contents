@@ -1,0 +1,17 @@
+blogdown:::serve_site()
+blogdown:::serve_site()
+blogdown:::serve_site()
+hugo
+blogdown:::serve_site()
+blogdown:::serve_site()
+hugo
+blogdown:::serve_site()
+blogdown:::serve_site()
+blogdown:::serve_site()
+blogdown:::serve_site()
+check_hugo(
+)
+library(blogdown)
+check_hugo()
+blogdown::config_Rprofile()
+options(blogdown.hugo.version = "0.97.3")
