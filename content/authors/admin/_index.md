@@ -1,7 +1,17 @@
 ---
 authors:
 - admin
-bio: I am interested in the evolution of social behavior in primates and other animals, primate responses to environmental change, and the application of quantitative methods to analyze behavioral and environmental data.
+title: Urs Kalbitzer
+first_name: Urs
+last_name: Kalbitzer
+
+role: Group Leader
+
+organizations:
+  - name: University of Konstanz, Germany & Max Planck Institute of Animal Behavior, Germany
+    url: ""
+
+bio: I am interested in the evolution of behavior in primates and other animals, primate responses to environmental change, and the application of quantitative methods to analyze the link between behavior, fitness, and environmental factors.
 
 education:
   courses:
@@ -20,10 +30,8 @@ interests:
   - Coding
 
 name: Urs Kalbitzer
-organizations:
-  - name: University of Konstanz, Germany & Max Planck Institute of Animal Behavior, Germany
-    url: ""
-role: Group Leader
+
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,6 +46,10 @@ superuser: true
 user_groups:
 - Researchers
 - Visitors
+
+# Highlight name in author list
+highlight_name: true
+
 ---
 
 I am a behavioral ecologist and biological anthropologist interested in primate social behavior and primate responses to anthropogenic changes in their environments. I conducted research on [male-male competition in baboons](/project/male-competition) and I am currently investigating [costs and benefits of female sociability in white-faced capuchins and red colobus monkeys](/project/female-sociability). Having worked in several places in the world where primates and other organism are threatened by human activities, I also want to understand [how animals respond to environmental change](/project/changing-environments), so that I can help prevent their extinction.  
