@@ -1,8 +1,8 @@
 ---
 title: "How the cerebral serotonin homeostasis predicts environmental changes: a model to explain seasonal changes of brain 5-HTT as intermediate phenotype of the 5-HTTLPR"
 date: 2013-10-01
-publishDate: 2020-01-25T04:47:43.512074Z
-authors: ["Jan Kalbitzer", "**Urs Kalbitzer**", "Gitte Moos Knudsen", "Paul Cumming", "Andreas Heinz"]
+publishDate: 2023-01-30T12:48:02.080291Z
+authors: ["Jan Kalbitzer", "Urs Kalbitzer", "Gitte Moos Knudsen", "Paul Cumming", "Andreas Heinz"]
 publication_types: ["2"]
 abstract: ""
 featured: false

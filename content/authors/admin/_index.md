@@ -29,9 +29,6 @@ interests:
   - Primates
   - Coding
 
-name: Urs Kalbitzer
-
-
 social:
 - icon: envelope
   icon_pack: fas

@@ -1,8 +1,8 @@
 ---
 title: "Methodological considerations in the analysis of fecal glucocorticoid metabolites in tufted capuchins (textitCebus apella)"
 date: 2013-08-01
-publishDate: 2020-01-25T04:47:43.512809Z
-authors: ["Brandon C Wheeler", "Barbara Tiddi", "**Urs Kalbitzer**", "Elisabetta Visalberghi", "Michael Heistermann"]
+publishDate: 2023-01-30T12:48:02.078955Z
+authors: ["Brandon C. Wheeler", "Barbara Tiddi", "Urs Kalbitzer", "Elisabetta Visalberghi", "Michael Heistermann"]
 publication_types: ["2"]
 abstract: ""
 featured: false

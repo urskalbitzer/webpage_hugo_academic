@@ -1,8 +1,8 @@
 ---
 title: "Restoration Provides Hope for Faunal Recovery: Changes in Primate Abundance Over 45 Years in Kibale National Park, Uganda"
 date: 2018-01-01
-publishDate: 2020-01-25T04:47:43.508273Z
-authors: ["Colin A Chapman", "Patrick A Omeja", "**Urs Kalbitzer**", "Penglai Fan", "Michael J Lawes"]
+publishDate: 2023-01-30T12:48:02.083224Z
+authors: ["Colin A. Chapman", "Patrick A. Omeja", "Urs Kalbitzer", "Penglai Fan", "Michael J. Lawes"]
 publication_types: ["2"]
 abstract: ""
 featured: false

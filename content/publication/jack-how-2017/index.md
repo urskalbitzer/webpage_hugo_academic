@@ -1,8 +1,8 @@
 ---
 title: "How to cultivate a tree: Celebrating the career of Linda Marie Fedigan"
 date: 2017-07-01
-publishDate: 2020-01-25T04:47:43.516263Z
-authors: ["Katharine M Jack", "**Urs Kalbitzer**"]
+publishDate: 2023-01-30T12:48:02.082221Z
+authors: ["Katharine M. Jack", "Urs Kalbitzer"]
 publication_types: ["2"]
 abstract: ""
 featured: false

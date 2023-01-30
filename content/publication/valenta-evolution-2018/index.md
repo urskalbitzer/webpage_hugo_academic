@@ -1,8 +1,8 @@
 ---
 title: "The evolution of fruit colour: phylogeny, abiotic factors and the role of mutualists"
 date: 2018-09-01
-publishDate: 2020-01-25T04:47:43.509057Z
-authors: ["Kim Valenta", "**Urs Kalbitzer**", "Diary Razafimandimby", "Patrick A Omeja", "Manfred Ayasse", "Colin . Chapman", "Omer Nevo"]
+publishDate: 2023-01-30T12:48:02.085937Z
+authors: ["Kim Valenta", "Urs Kalbitzer", "Diary Razafimandimby", "Patrick A. Omeja", "Manfred Ayasse", "Colin A. Chapman", "Omer Nevo"]
 publication_types: ["2"]
 abstract: ""
 featured: false

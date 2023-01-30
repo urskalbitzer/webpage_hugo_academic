@@ -1,8 +1,8 @@
 ---
 title: "Long-term storage effects in steroid metabolite extracts from baboon (textitPapio sp.) faeces - a comparison of three commonly applied storage methods"
 date: 2013-05-01
-publishDate: 2020-01-25T04:47:43.513947Z
-authors: ["**Urs Kalbitzer**", "Michael Heistermann"]
+publishDate: 2023-01-30T12:48:02.081413Z
+authors: ["Urs Kalbitzer", "Michael Heistermann"]
 publication_types: ["2"]
 abstract: ""
 featured: false
