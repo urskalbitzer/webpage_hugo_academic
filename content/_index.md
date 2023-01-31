@@ -22,7 +22,6 @@ sections:
           parallax: true
       spacing:
         padding: ["100px", "0", "300px", "0"]
-        
   - block: about.avatar
     id: about
     content:
@@ -34,13 +33,11 @@ sections:
       columns: '2'
       view: showcase
       
-      
   - block: portfolio
     id: projects
     content:
       title: Projects
-      text: (update coming soon...)
-        
+      text:
       filters:
         folders:
           - project
@@ -51,11 +48,12 @@ sections:
       columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: collection
+    id: publications
     content:
       title: Publications
-      text: _As of 2023-01-30_
+      text: As of 2023-01-30
       count: 0
       filters:
         folders:

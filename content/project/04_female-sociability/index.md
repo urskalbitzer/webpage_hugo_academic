@@ -6,9 +6,9 @@ image:
   focal_point: Smart
 links:
 slides:
-summary: Female sociability and fitness in primates
+summary: 
 tags:
-title: Female Sociability
+title: Female sociability and fitness in primates
 share: false
 profile: false
 url_code: ""

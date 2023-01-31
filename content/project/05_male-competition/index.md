@@ -6,9 +6,9 @@ image:
   focal_point: Smart
 links:
 slides:
-summary: Male-male competition and tolerance in baboons.
+summary: 
 tags:
-title: Male-male competition
+title: Male-male competition and tolerance in baboons.
 share: false
 profile: false
 url_code: ""
