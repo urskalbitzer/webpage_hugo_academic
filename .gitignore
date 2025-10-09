@@ -7,7 +7,7 @@
 # ============================================================================
 
 # Generated site output
-public/
+/public/
 
 # Hugo resources (processed assets)
 resources/
@@ -75,3 +75,4 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+.Rproj.user

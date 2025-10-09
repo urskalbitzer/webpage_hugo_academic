@@ -6,22 +6,22 @@
     echo "pnpm version: $(pnpm --version)"
     echo "Hugo version: $(hugo version)"
     echo "Go version: $(go version || echo 'Go not available')"
-    
+
     echo "=== Installing dependencies ==="
     pnpm install --verbose
-    
+
     echo "=== Running Hugo build ==="
     hugo --gc --minify -b $URL --logLevel debug --printI18nWarnings --printPathWarnings
-    
+
     echo "=== Running Pagefind indexing ==="
     pnpm dlx pagefind --source 'public' --verbose
-    
+
     echo "=== Build completed successfully ==="
   """
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.150.1"
+  HUGO_VERSION = "0.151.0"
   GO_VERSION = "1.21.5"
   NODE_VERSION = "22"
   HUGO_ENABLEGITINFO = "true"

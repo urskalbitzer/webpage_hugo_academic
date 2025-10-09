@@ -5,8 +5,12 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: indigo
+  # mode: system
+  # color: indigo
+  theme_day: dark
+  theme_night: dark
+  font: dark
+  font_size: L
 
 # SEO
 marketing:
@@ -14,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -30,17 +34,22 @@ marketing:
 header:
   navbar:
     enable: true
+    align: l # from old page
+    show_logo: true # from old page
+    show_language: false # from old page
+    show_day_night: true # from old page
+    highlight_active_link: true # from old page
     block: 'navbar'
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Urs Kalbitzer'
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Urs Kalbitzer. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -54,7 +63,19 @@ locale:
 
 # Site features
 features:
+  syntax_highlighter: # from old page
+    theme_light: github-light # from old page
+    theme_dark: github-dark # from old page
   math:
     enable: false
   privacy_pack:
     enable: false
+  repository: # from old page
+    url: 'https://github.com/<username>/<repository>' # from old page
+    content_dir: content # from old page
+    branch: main # from old page
+  avatar: # from old page
+    gravatar: false # from old page
+    shape: circle # from old page
+
+    # There are some more things that were included here on the old webpage

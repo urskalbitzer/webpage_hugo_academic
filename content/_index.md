@@ -9,97 +9,77 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
+  - block: hero
+    content:
+      title: Welcome
+      # Reference an image in your `assets/media/` folder
+    design:
+      background:
+        text_color_light: true
+        # gradient_end: '#1976d2'
+        # gradient_start: '#004ba0'
+        image:
+          filename: DSC_1114.jpg
+          size: cover
+          position: center
+          parallax: true
+      spacing:
+        padding: ["100px", "0", "300px", "0"]
+  - block: resume-biography # used to be about.avatar
+    id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
+    # headings:
+      # about: ''
+      # education: ''
+      # interests: ''
     design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+        shape: rounded # Options: circle (default), square, rounded
   - block: collection
-    id: papers
+    id: projects
     content:
-      title: Featured Publications
+      title: Projects
+      text:
+      filters:
+        folders:
+          - projects
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      view: 'card'
+      columns: '3'
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: true
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  # 
+  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  # 
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      text: As of 2023-01-30
       filters:
         folders:
           - publications
-        featured_only: true
+        featured_only: false
+        exclude_featured: true
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

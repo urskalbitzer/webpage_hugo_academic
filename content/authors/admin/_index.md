@@ -1,169 +1,67 @@
 ---
 # Display name
-title: Alex Johnson
+title: Urs Kalbitzer
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Urs
+last_name: Kalbitzer
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
+# user_groups: "Principal Investigators" # from old webpage
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Group Leader
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Konstanz, Germany & Max Planck Institute of Animal Behavior, Germany
+    url:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  - icon: envelope
+    icon_pack: fas
+    url: 'mailto:ukalbitzer@ab.mpg.de'
+    link: '#contact'
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://github.com/urskalbitzer
+  # - icon: brands/linkedin
+  # url: 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    link: https://scholar.google.com/citations?user=ePZE-XQAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-6289-7971
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Behavioral Ecology
+  - Environmental Change
+  - Social Behavior
+  - Biological Anthropology
+  - Quantitative Methods
+  - Primates
+  - Coding
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+  - area: PhD in Biology
+    institution: University of Göttingen, Germany
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
-
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a behavioral ecologist and in my research I aim to gain a comprehensive understanding of the impacts of environmental factors on animal behavior and fitness. I use quantitative methods to integrate long-term behavioral, life-history, physiological and genetic data from wild primate populations with climate and plant ecological data to gain insights into the effects of changing environments on the behavioral ecology and survival of these threatened species. I have worked on multiple species, including baboons (_Papio_ spp.), white-faced capuchins (_Cebus imitator_), African green monkeys (_Chlorocebus sabaeus_) and spider monkeys (_Ateles_ spp.). My current focus is on red colobus (_Piliocolobus tephrosceles_) in Kibale National Park, Uganda, where I have access to a uniquely broad long-term dataset. I also use computational approaches to investigate and validate quantitative methods and I am expanding this research by developing simulations to explore theoretical ideas about animal-environment interactions at the individual and population levels. My current research projects revolve around three themes: (1) [Primate responses to environmental change](/project/01_changing-environments), (2) [Nutritional landscapes, animal behavior, and forest composition](/project/02_behav_landscapes), and (3) [Primate behavioral evolution](/project/03_behav_evol).  
+
+I am passionate about applying quantitative methods and data analysis in general, and enthusiastic about teaching such methods and scientific workflows to students. I have documented introductions to some of these methods online to make them accessible to any interested student and/or researcher (https://bedatablog.netlify.com – _will be soon migrated to this webpage_).
