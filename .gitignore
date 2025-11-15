@@ -75,4 +75,29 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
 .Rproj.user
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# R Environment Variables
+.Renviron
+
+# RStudio Connect folder
+rsconnect/
